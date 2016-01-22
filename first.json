@@ -1,0 +1,40 @@
+
+{
+"913051":{
+"Game":{
+"status":"Second half",
+"timer_running":"1",
+"home_score":"19",
+"game_id":"913051",
+"away_score":"15",
+"Event":{
+"direction":"Left to Right",
+"event_id":"712",
+"timestamp":"2013-03-16 16:15:53",
+"game_id":"913051",
+"period_minute":"76",
+"event_type_name":"Ruck",
+"period":"Second Half",
+"period_second":"46",
+"direction_of_play_x":"38.2",
+"direction_of_play_y":"72.9",
+"player_id":"0",
+"last_modified":"2013-03-16 16:15:53",
+"period_id":"4",
+"event_type_id":"19",
+"timestamp_milliseconds":"94",
+"y":"72.9",
+"x":"38.2",
+"team_id":"600",
+"outcome":"1",
+"id":"1739684",
+"Qualifiers":{
+"qualifier_id":"135",
+"id":"2312540",
+"value":"",
+"name":"Won"
+}
+}
+}
+}
+}
