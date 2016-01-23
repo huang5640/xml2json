@@ -24,7 +24,7 @@ def saveJSON2DB(jsonStr):
 
 def eventsJSONWithGameId(game_id):
 	couch = couchdb.Server()
-	key = 'g' + game_id
+	key = 'g' + str(game_id)
 
 	db = couch[key]  # will throw if not found
 
